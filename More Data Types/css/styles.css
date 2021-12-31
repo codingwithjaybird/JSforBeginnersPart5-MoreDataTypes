@@ -1,0 +1,12 @@
+main {
+  background-color: lightgoldenrodyellow;
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+  border: 1px solid #555;
+  border-radius: 12px 12px;
+}
+
+main h1 {
+  font-size: 1.4rem;
+}
